@@ -1,7 +1,7 @@
-package cz.kalas.knet.approvalportal.deployer.java.controllers;
+package cz.kalas.samples.fullstackSkeleton.java.controllers;
 
 
-import cz.kalas.knet.approvalportal.deployer.kotlin.model.Car;
+import cz.kalas.samples.fullstackSkeleton.kotlin.model.Car;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

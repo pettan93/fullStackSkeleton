@@ -1,11 +1,11 @@
-package cz.kalas.knet.approvalportal.deployer.kotlin
+package cz.kalas.samples.fullstackSkeleton.kotlin
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-open class DeployerApplication
+open class CarSkeletonApplication
 
 fun main(args: Array<String>) {
-    runApplication<DeployerApplication>(*args)
+    runApplication<CarSkeletonApplication>(*args)
 }
