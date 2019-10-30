@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5107600d-cd19-4eaa-82fd-f3a757eb89f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/cz/kalas/knet/approvalportal/deployer/java/controllers/CarController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/kotlin/cz/kalas/knet/approvalportal/deployer/kotlin/DeployerApplication.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/kotlin/cz/kalas/knet/approvalportal/deployer/kotlin/model/Car.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,18 +43,26 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/modul-auta" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="cz.kalas.samples.fullstackSkeleton.java" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\techstack-skelet-one\modul-auta" />
       <recent name="C:\dev\techstack-skelet-one\backend" />
       <recent name="C:\dev\techstack-skelet-one\frontend" />
       <recent name="C:\dev\techstack-skelet-one" />
@@ -72,64 +80,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DeployerApplication">
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="parent" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="parent" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="CarSkeletonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="backend" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cz.kalas.samples.fullstackSkeleton.kotlin.CarSkeletonApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DeployerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="backend" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cz.kalas.knet.approvalportal.deployer.kotlin.DeployerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -145,7 +100,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571495300894</updated>
-      <workItem from="1571495302314" duration="2120000" />
+      <workItem from="1571495302314" duration="2485000" />
+      <workItem from="1572360624395" duration="455000" />
+      <workItem from="1572422606812" duration="4928000" />
+      <workItem from="1572439699937" duration="1473000" />
     </task>
     <servers />
   </component>
@@ -157,7 +115,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
